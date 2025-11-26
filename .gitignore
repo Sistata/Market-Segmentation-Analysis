@@ -29,9 +29,6 @@ Thumbs.db
 *.swo
 *~
 
-# Images
-*.png
-
 # Data files (uncomment if you don't want to commit data)
 # *.csv
 # *.xlsx
