@@ -1,7 +1,7 @@
 # Market Segmentation Analysis
 
 ## Project Summary
-Developed an unsupervised learning system to segment customers for targeted marketing strategies using a marketing campaign dataset. Implemented multiple clustering algorithms (K-Means, Spectral Clustering, Agglomerative Clustering) with comprehensive evaluation metrics, identifying 3 distinct customer segments with optimal performance through systematic model comparison.
+Developed an unsupervised learning system to segment customers for targeted marketing strategies using a marketing campaign dataset. Implemented multiple clustering algorithms (K-Means, Spectral Clustering, Agglomerative Clustering) with comprehensive evaluation metrics, identifying 2 distinct customer segments with optimal performance through systematic model comparison.
 
 ## Technical Approach
 
